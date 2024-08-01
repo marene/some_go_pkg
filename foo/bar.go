@@ -1,4 +1,4 @@
-package some_go_pkg
+package foo
 
 func SomeFunc() string {
 	return "Hello Wold"
